@@ -1,6 +1,9 @@
 # Marketing-Campaign-Analysis-Onyx-Data-June
 Welcome to the Marketing Campaign Analysis project for Onyx Data, a comprehensive Power BI dashboard designed to provide in-depth insights into marketing campaign performance. This project aims to equip marketing teams and stakeholders with actionable data to optimize campaign strategies, enhance customer engagement, and improve ROI.
 
+#### Project URL : 
+https://app.powerbi.com/groups/me/reports/410ecc98-6afd-448f-b597-c89c1002fdbf/ReportSection?experience=power-bi
+
 #### Project Objectives
 
 - **Analyze Campaign Performance**: Evaluate key metrics such as total spend, total clicks, conversions, CPA (Cost Per Acquisition), and ROI (Return on Investment).
